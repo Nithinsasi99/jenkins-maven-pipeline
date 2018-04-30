@@ -68,8 +68,8 @@
 	<distributionManagement>
 	<repository>
 		<id>Release</id>
-		<name>Internal Releases</name>
-		<url>http://<nexus-ip>:8081/repository/maven-releases/</url>
+		<name>deploy-rel</name>
+		<url>http://35.227.113.12:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
