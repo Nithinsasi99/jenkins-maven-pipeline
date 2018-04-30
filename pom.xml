@@ -69,7 +69,7 @@
 	<repository>
 		<id>Release</id>
 		<name>deploy-rel</name>
-		<url>http://35.227.113.12:8081/repository/maven-releases/</url>
+		<url>http://35.227.113.12:8081/repository/deploy-rel/</url>
 	</repository>
  
 	<snapshotRepository>
