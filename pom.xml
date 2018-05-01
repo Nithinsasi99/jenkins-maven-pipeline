@@ -75,7 +75,7 @@
 	<snapshotRepository>
 		<id>Snapshot</id>
 		<name>deploy-snap</name>
-		<urlhttp://35.227.113.12:8081/repository/deploy-snap/</url>
+		<url>http://35.227.113.12:8081/repository/deploy-snap/</url>
 	</snapshotRepository>
 </distributionManagement>
 
